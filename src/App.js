@@ -11,7 +11,6 @@ return (
   <div>
     <NavBar />
     <Home />
-    {/* <Hero/> */}
     <Experience />
     <Project />
     <Newsletter />

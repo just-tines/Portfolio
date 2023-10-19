@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
-// import { FaBars, FaTimes } from "react-icons/fa";
 
 const NavBar = () => {
   const links = [
