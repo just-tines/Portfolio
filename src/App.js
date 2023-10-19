@@ -12,7 +12,6 @@ export default function App() {
       <Experience />
       <Project />
       <Newsletter />
-      <Newsletter />
     </div>
   );
 }
